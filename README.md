@@ -1,5 +1,2 @@
 # java-programs
-important java programs - Programming with java
-
-
-VERY IMPORTANT QUESTIONS- EXAM ON 7tH FEB 2025
+This Reposistory contains all important programs and concepts of CSE2006- Programming in JAVA
